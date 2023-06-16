@@ -1,3 +1,4 @@
+Hello java
 java-maven-junit-helloworld
 ===========================------
 
